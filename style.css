@@ -1,0 +1,45 @@
+body {
+  background-color: #f1fff4;
+  font-size:25px;
+}
+
+header {
+  background-color: #d9ffe2;
+  border: 5px solid #2f7a3a;
+  text-align:center;
+  
+
+}
+
+main {
+  background-color: #ffffff;
+  border: 5px solid #9ddaa9;
+  
+
+}
+
+footer {
+  background-color: #d9ffe2;
+  border: 5px solid #2f7a3a;
+  text-align:center;
+
+  
+}
+
+p {
+  border: 3px solid #9ddaa9;
+  
+
+}
+
+img {
+	border: 5px solid #2f7a3a;
+  	height: 300px;
+	padding: 5px 5px;
+    margin: 5px 5px;
+}
+
+a{
+  color: #0b5a1a;
+  font-size: 18px;
+}
